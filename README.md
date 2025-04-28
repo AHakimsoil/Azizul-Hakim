@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Azizul Hakim @AHakimsoil
+- 👋 Hi, I’m Azizul Hakim Azizul/Hakim
 - 👀 I’m interested in learing new things
 - 🌱 I’m currently learning R and python
 - 💞️ I’m looking to collaborate on any developer 
