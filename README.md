@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Azizul Hakim Azizul-Hakim
+- 👋 Hi, I’m Azizul Hakim 
 - 👀 I’m interested in learing new things
 - 🌱 I’m currently learning R and python
-- 💞️ I’m looking to collaborate on any developer 
+- 💞️ I’m looking to collaborate with any developer 
 - 📫 How to reach me ahakimsoil@cu.ac.bd
 - 😄 Pronouns: 
 - ⚡ Fun fact: thinker
